@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/appcent/static/css/main.702e1c51.chunk.css",
-    "main.js": "/appcent/static/js/main.c055b51b.chunk.js",
-    "main.js.map": "/appcent/static/js/main.c055b51b.chunk.js.map",
+    "main.js": "/appcent/static/js/main.aebd4186.chunk.js",
+    "main.js.map": "/appcent/static/js/main.aebd4186.chunk.js.map",
     "runtime-main.js": "/appcent/static/js/runtime-main.7c55a19f.js",
     "runtime-main.js.map": "/appcent/static/js/runtime-main.7c55a19f.js.map",
     "static/css/2.121e4040.chunk.css": "/appcent/static/css/2.121e4040.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.121e4040.chunk.css",
     "static/js/2.604cfe00.chunk.js",
     "static/css/main.702e1c51.chunk.css",
-    "static/js/main.c055b51b.chunk.js"
+    "static/js/main.aebd4186.chunk.js"
   ]
 }
